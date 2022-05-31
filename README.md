@@ -1,0 +1,2 @@
+# Cribbage
+A cribbage calculator
